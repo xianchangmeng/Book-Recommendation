@@ -2,4 +2,4 @@ numpy
 Flask
 pyspark
 gunicorn
-
+pandas
